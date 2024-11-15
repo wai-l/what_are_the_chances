@@ -147,6 +147,11 @@ st.write('**Binomial distribtuion**')
 st.latex(r'P(x=k) = 6 * 0.0625')
 st.latex(r'P(x=k) = 0.375')
 
+st.write('Using `python`, you can use the `binom` function from the `scipy` package to calculate the binomial distribtuion. ')
+code_current_win_rate_prob = '''from scipy.stats import binom
+binom.pmf(k=win, n=round, p=p)'''
+st.code(code_current_win_rate_prob, language='python')
+
 # 
 
 st.subheader('Probability of winning the next round ')
