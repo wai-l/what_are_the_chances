@@ -1,4 +1,3 @@
-random
 scipy
 pandas
 streamlit
