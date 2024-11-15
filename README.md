@@ -2,7 +2,7 @@
 This app aims to demonstrate various probability concepts in a game of coin toss. 
 
 Visit this for the web app hosting on Streamlit: 
-https://stock-correlation-matrix.streamlit.app
+https://what-are-the-chances.streamlit.app
 
 The winning history and game stats will keep updating when you progress in the game. 
 ![Screenshot of the app. ](images/screenshot_1.png)

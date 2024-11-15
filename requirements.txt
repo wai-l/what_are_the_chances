@@ -1,4 +1,4 @@
 random
-scipy.stats
+scipy
 pandas
 streamlit
